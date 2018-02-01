@@ -1,4 +1,4 @@
-# Author: Benjmain Runco
+/* Author: Benjmain Runco */
 
 #include <stdio.h>
 
