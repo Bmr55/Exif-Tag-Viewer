@@ -11,5 +11,5 @@ gcc -o exifviewer exifviewer.c
 ./exifviewer image.jpg
 
 ## NOTE
-Does not support bigendianess <br/>
+Does not support Big Endianess <br/>
 It is possible no tag exists
