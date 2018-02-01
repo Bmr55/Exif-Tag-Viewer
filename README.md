@@ -7,5 +7,5 @@ JPEG
 ## compilation
 gcc -o exifviewer exifviewer.c
 
-## commandline args
+## command line arguments
 ./exifviewer image.jpg
