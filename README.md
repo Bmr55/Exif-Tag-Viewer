@@ -9,3 +9,7 @@ gcc -o exifviewer exifviewer.c
 
 ## command line arguments
 ./exifviewer image.jpg
+
+## NOTE
+Does not support bigendianess
+It is possible no tag exists
