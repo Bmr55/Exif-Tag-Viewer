@@ -7,7 +7,7 @@ gcc -o exifviewer exifviewer.c
 ## command line arguments
 ./exifviewer image.jpg
 
-## NOTE
-Only supports JPEG <br/>
-Does not support Big Endianess <br/>
-It is possible no tag exists
+## NOTE:
+* Only supports JPEG <br/>
+* Does not support Big Endianess <br/>
+* It is possible no tag exists
